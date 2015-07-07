@@ -1,0 +1,31 @@
+- title: "Comic"
+  pic: "/images/logo-img.jpg"
+  tagline: "A webcomic about the tangled webs that co-ops weave."
+  blurb: "Coops coops, TBA blurb."
+  misc: "Here will go some stuff that readers should know or whatever, like btw?"
+  important: "We're just doing this for fun."
+  hr: "Create a horizontal rule"
+  #amazon: "http://www.amazon.com/Shamsee-Fistful-Lunars-Valley-Crescents-ebook/dp/B00NTC5CWM/"
+  #comixology: "https://www.comixology.com/Shamsee-Vol-1-A-Fistful-of-Lunars/digital-comic/162424"
+  #drivethru: "http://comics.drivethrustuff.com/product/137601/Shamsee-A-Fistful-of-Lunars"
+  #gumroad: "https://gumroad.com/shamsee"
+  
+
+- title: "author"
+  pic: "/images/glaikery.jpg"
+  info: "... is a longtime co-oper (housing, food, and otherwise), and a hopefully-illustrious local unlicensed detective. She delights in mysteries and bicycle mechanics. She has been writing and drawing for a while."
+  twitter: "@jczetta"
+  #facebook: "BackThatElfUp"
+  tumblr:
+  googleplus:
+  web: "http://jczetta.net"
+  
+  
+- title: "author"
+  pic: "/images/idiopathicsmile.jpg"
+  info: "... lived happily (and most other adverbial emotions) in a student co-op from 2008-2011. She is a prolific writer, artist, and musician, and an ever-leveling-up Chicagoan."
+  twitter: "@JesserBest"
+  facebook:
+  googleplus:
+  tumblr: "idiopathicsmile"
+  #web: ""
