@@ -63,9 +63,11 @@ facebook_user:
 facebook_app_id:                      #enter your App ID
 facebook_locale: en_US
 facebook_page:                        #the URL of your Facebook Page
-facebook_image: /images/SHAM-logo.jpg #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+facebook_image: /images/logo-img.jpg #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 # Twitter Cards
 twitter_user: 
 twitter_card: true
-twitter_image: /images/SHAM-logo.jpg  #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+twitter_image: /images/logo-img.jpg  #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+
+exclude: ['vendor']
