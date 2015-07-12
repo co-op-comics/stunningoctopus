@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+ruby '2.0.0'
 gem 'jekyll', '~> 2.5.2'	#Needed since this is a theme for Jekyll
 gem "rake" 			#Used to simplify building/deploying tasks
 gem "s3_website"		#Used to deploy site to AWS S3

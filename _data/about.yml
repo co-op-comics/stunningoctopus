@@ -1,19 +1,19 @@
 - title: "Comic"
   pic: "/images/logo-img.jpg"
-  tagline: "A webcomic about the tangled webs that co-ops weave."
-  blurb: "Coops coops, TBA blurb."
-  misc: "Here will go some stuff that readers should know or whatever, like btw?"
-  important: "We're just doing this for fun."
+  tagline: "A webcomic about the tangled webs that housing co-ops weave."
+  blurb: "Here we have life celebrations for broken plates and we play guitar beneath stepladders. Here we dance to music and no music. We rip index cards to shreds and break each other's hearts. We are held up by one another's shoulders, and we dislocate still others by throwing housemates off a big comfy cushion. We avoid food poisioning narrowly but can't escape the emotional rollercoasters of incessant house politics. We don't speak up when we should. We slam doors and leave the microwaves beeping late at night. We're awful to each other, and we make sandwiches out of 5 pound blocks of cheese and sourdough pancakes to share. 'You give good hugs', says Pat. 'Where'd you learn?' And you laugh, because the question's funny and because the answer's complicated."
+  misc: "This is a webcomic to share snippets of all the stories we've wanted to share from lives as co-opers. Tell us your stories, ask us your questions: <b>cooperativecomic@gmail.com</b>"
+  important: "Do we want a bolded line here. ??"
   hr: "Create a horizontal rule"
   #amazon: "http://www.amazon.com/Shamsee-Fistful-Lunars-Valley-Crescents-ebook/dp/B00NTC5CWM/"
-  #comixology: "https://www.comixology.com/Shamsee-Vol-1-A-Fistful-of-Lunars/digital-comic/162424"
-  #drivethru: "http://comics.drivethrustuff.com/product/137601/Shamsee-A-Fistful-of-Lunars"
+  #comixology: "https://www.comixology.com/Shamsee-Vol-1-temp-comic/digital-comic/162424"
+  #drivethru: "http://comics.drivethrustuff.com/product/137601/Shamsee-temp-comic"
   #gumroad: "https://gumroad.com/shamsee"
   
 
 - title: "author"
-  pic: "/images/glaikery.jpg"
-  info: "... is a longtime co-oper (housing, food, and bicycle, among others), and an unlicensed detective. She delights in mysteries (code, science, life...) and music, and she has been writing and drawing stuff for a while."
+  pic: "/images/glaikery.png"
+  info: "<b>atglaikery</b> is a longtime co-oper of a few kinds who'll talk your head off about music and teaching and space. She frequently moonlights as an engineer of supply chain software, a computer programming teacher, and a bicycle workshopper. She respects the process."
   twitter: "@jczetta"
   #facebook: "BackThatElfUp"
   tumblr:
@@ -22,8 +22,8 @@
   
   
 - title: "author"
-  pic: "/images/idiopathicsmile.jpg"
-  info: "... lived happily (and most other adverbial emotions) in a co-op for some time. She is a prolific writer, artist, and musician, a talented and recently unreluctant punster, and and an ever-leveling-up Chicagoan."
+  pic: "/images/idiopathicsmile.png"
+  info: "<b>idiopathicsmile</b> lived happily (and many other adverbial emotions) in a co-op for some time. She is a prolific writer, artist, and musician, a recently unreluctant punster, a community-maker, and an ever-leveling-up Chicagoan. She respects the rules."
   twitter: "@JesserBest"
   facebook:
   googleplus:
